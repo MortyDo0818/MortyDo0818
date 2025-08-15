@@ -1,6 +1,6 @@
 ## Hi there 👋
-#### This is Morty! 👨🏻‍💻 I am a software development engineer  
-#### And this is my Mind Grocery store  
+- This is Morty! 👨🏻‍💻 I am a software development engineer  
+- And this is my Mind Grocery store  
 - Here I will record my current skills and the skills I will learn. Welcome everyone to share experiences and insights 🎉
 
 <!--
